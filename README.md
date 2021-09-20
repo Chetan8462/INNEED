@@ -4,7 +4,7 @@
 https://inneedwebservices.000webhostapp.com/index.php
 
 ## USAGE
-- This website is build for people who want to have some work done but counln't find any worker. They can signup on our website and look for worker in their locality for the required work.
+- This website is build for people who want to have some work done but couldn't find any worker. They can signup on our website and look for worker in their locality for the required work.
 - People who are looking for work can signup on the website and can post their job profiles and can find if there is any work requirement in their field of work.
 
 ## Features
