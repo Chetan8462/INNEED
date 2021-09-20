@@ -13,5 +13,9 @@ https://inneedwebservices.000webhostapp.com/index.php
 - **Rating feature** for customer. Worker will send notification for rating to the customer's dashboard which will increase its value.
 - Admin Dashboard where admin can **view, block or delete** any user of the website.
 
-##SnapShots
+## SnapShots
+### Index Page
+![Pic1](pics/pic1.PNG)
+### Our features
+![Our features](pics/Pic2.PNG)
 
